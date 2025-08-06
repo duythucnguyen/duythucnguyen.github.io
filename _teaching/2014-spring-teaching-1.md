@@ -1,10 +1,9 @@
 ---
 title: "Teaching Fellow"
 collection: teaching
-type: 
+type: Fall 2024
 permalink: /teaching/2014-spring-teaching-1
 venue: "Harvard University"
-date: Fall 2024
 location: "Cambridge, MA"
 ---
 
