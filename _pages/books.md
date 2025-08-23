@@ -5,7 +5,7 @@ permalink: /books/
 author_profile: true
 ---
 
-## Math Books
+## Math
 - *High-Dimensional Probability* — Vershynin
 - *Measure, Integration & Real Analysis* — Axler
 
