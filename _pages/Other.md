@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Books"
-permalink: /books/
+title: "Other"
+permalink: /other/
 author_profile: true
 ---
 
