@@ -2,6 +2,7 @@
 title: "Teaching Fellow"
 collection: teaching
 venue: "Harvard University"
+permalink: /teaching/2014-spring-teaching-1
 location: "Cambridge, MA"
 ---
 
