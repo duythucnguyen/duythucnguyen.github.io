@@ -4,7 +4,15 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-
+<style>
+/* On the Teaching page, make the item title non-clickable */
+.archive__item-title a {
+  pointer-events: none;
+  cursor: default;
+  text-decoration: none;
+  color: inherit;
+}
+</style>
 {% include base_path %}
 
 {% for post in site.teaching reversed %}
