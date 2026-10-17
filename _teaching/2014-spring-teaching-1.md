@@ -6,7 +6,7 @@ permalink: /teaching/2014-spring-teaching-1
 location: "Cambridge, MA"
 ---
 
-Fall 2026: CS 2243 (Algorithms for Data Science)<br}
+Fall 2026: CS 2243 (Algorithms for Data Science)<br>
 Spring 2026: Stat 171 (Stochastic Processes)<br>
 Fall 2025: Stat 210 (Graduate Probability I) & Math 114 (Functional Analysis)<br>
 Spring 2025: Stat 171 (Stochastic Processes) & ES 150 (Probability)<br>
